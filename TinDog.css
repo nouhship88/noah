@@ -1,0 +1,189 @@
+#reviews {
+	background: #fa8272;
+}
+
+#ads {
+	background-color: #fa8272;
+	padding-bottom: 3%;
+}
+
+/* to make the advantages section in front */
+#advantages {
+	position: relative;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+	color: #8f8f8f;
+}
+
+
+/* Heading-title */
+
+.heading-title {
+	font-family: 'Arial, Helvetica, sans-serif';
+	font-size: 3.5rem;
+	font-weight: 900;
+	line-height: 1.5;
+	color: white;
+}
+
+.rates-ad {
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 4rem;
+	line-height: 1.5;
+}
+
+.ads-logo {
+	width: 15%;
+	margin: 0px 30px 40px;
+}
+
+
+/* reviews */
+
+.reviews-image {
+	width: 16%;
+	border-radius: 80%;
+	margin: 15px;
+
+
+}
+
+.reviews-text {
+	font-size: 5rem;
+	font-family: 'Times New Roman', Times, serif;
+
+}
+
+
+/* Containers */
+
+.container-fluid {
+	padding: 7% 15%;
+}
+
+
+/* Sections  */
+
+.pink-section {
+	background-color: #ff4c68;
+	color: #fff;
+}
+
+.white-section {
+	background-color: #fff;
+}
+
+.feature-box {
+	padding: 2%;
+}
+
+.feature-title {
+	font-size: 1.5rem;
+	font-weight: bold;
+}
+
+.icon {
+	color: #ef8172;
+	margin-bottom: 1rem;
+}
+
+.icon:hover {
+	color: #ff4c68;
+}
+
+
+/* Navigation Bar  */
+
+.navbar {
+	padding: 0 0 4.5rem;
+}
+
+.nav-link {
+	font-size: 1.2rem;
+	font-family: 'Monteserrat';
+}
+
+
+.nav-item {
+	padding: 0 18px;
+}
+
+
+.navbar-brand {
+	font-family: 'cursive';
+	font-size: 3rem;
+	font-weight: 600;
+}
+
+/* Title Section  */
+
+#title .container-fluid {
+	padding: 3% 15%;
+	text-align: left;
+	right: 3%
+}
+
+/* Rates Section */
+
+#rates {
+    
+	padding: 50px;
+}
+
+/* Title Image */
+
+.iphone-image {
+	width: 45%;
+	transform: rotate(25deg);
+	position: absolute;
+	left: 0%;
+}
+
+
+/* Download Buttons */
+
+.download-button {
+	margin: 10% 0% 0% 0%;
+}
+
+.price-text {
+    font-family: 'Times New Roman', Times, serif;
+	font-size: 4rem;
+	font-weight: bold;
+}
+
+.pricing-column {
+	padding: 2% 2%;
+}
+
+/* download buttom Section  */
+#download-buttom {
+	background-color: #ff4c68;
+}
+
+/* Footer Section  */
+
+.footer-link {
+	padding: 1%;
+}
+
+
+#price-feature {
+	font-family: cursive;
+}
