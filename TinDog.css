@@ -160,8 +160,11 @@ p {
 
 .download-button {
 	margin: 10% 0% 0% 0%;
-}
+    }
 
+.signup{
+    margin:11% 3% 5% 0;
+}    
 .price-text {
     font-family: 'Times New Roman', Times, serif;
 	font-size: 4rem;
